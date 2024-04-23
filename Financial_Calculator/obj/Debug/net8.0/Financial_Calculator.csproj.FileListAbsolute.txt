@@ -1,0 +1,15 @@
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\bin\Debug\net8.0\Financial_Calculator.exe
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\bin\Debug\net8.0\Financial_Calculator.deps.json
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\bin\Debug\net8.0\Financial_Calculator.runtimeconfig.json
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\bin\Debug\net8.0\Financial_Calculator.dll
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\bin\Debug\net8.0\Financial_Calculator.pdb
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.AssemblyInfoInputs.cache
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.AssemblyInfo.cs
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.csproj.CoreCompileInputs.cache
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.sourcelink.json
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.dll
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\refint\Financial_Calculator.dll
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.pdb
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\Financial_Calculator.genruntimeconfig.cache
+D:\Git\Personal\Financial_Calculator\Financial_Calculator\obj\Debug\net8.0\ref\Financial_Calculator.dll
