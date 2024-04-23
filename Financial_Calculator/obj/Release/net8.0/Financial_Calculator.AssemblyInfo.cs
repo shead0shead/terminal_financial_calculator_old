@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Financial_Calculator")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba91ae299e6621d0e62ceeeedef7de5e886f00a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd063547ba48fc68c6507a16d7d7098d8be03a7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Financial_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Financial_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
