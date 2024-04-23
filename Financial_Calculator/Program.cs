@@ -12,10 +12,6 @@ namespace FinCalculator
 {
     internal class Program
     {
-        private static void Func1()
-        {
-
-        }
         static void Main(string[] args)
         {
             int mode = 1;
@@ -25,6 +21,7 @@ namespace FinCalculator
 
             start:
 
+            Console.ResetColor();
             Console.Clear();
 
             Console.ForegroundColor = ConsoleColor.DarkGray;
@@ -52,6 +49,7 @@ namespace FinCalculator
                     else if (stmenu == 2) printString(47, 7, ">");
                     else if (stmenu == 3) printString(47, 8, ">");
 
+                    Console.ForegroundColor = ConsoleColor.Black;
                     ConsoleKey key2 = Console.ReadKey().Key;
                     if (key2 == ConsoleKey.UpArrow || key2 == ConsoleKey.W)
                     {
@@ -74,11 +72,6 @@ namespace FinCalculator
                     else if (key2 == ConsoleKey.Enter || key2 == ConsoleKey.E) { }
                     else if (key2 == ConsoleKey.Escape) Environment.Exit(0);
                     else goto start;
-
-                    if (stmenu == 1)
-                    {
-
-                    }
                 }
 
                 if (mode == 1) printString(8, 6, ">");
@@ -92,6 +85,7 @@ namespace FinCalculator
                 else if (mode == 9) printString(8, 23, ">");
                 else if (mode == 10) printString(8, 24, ">");
 
+                Console.ForegroundColor = ConsoleColor.Black;
                 ConsoleKey key1 = Console.ReadKey().Key;
                 if (key1 == ConsoleKey.UpArrow || key1 == ConsoleKey.W)
                 {
@@ -120,26 +114,6 @@ namespace FinCalculator
                 else if (key1 == ConsoleKey.Escape) Environment.Exit(0);
                 else goto start;
             }
-            else if (var == 2)
-            {
-                Console.CursorVisible = false;
-
-                modemenu:
-
-                ConsoleKey key1 = Console.ReadKey().Key;
-                if (key1 == ConsoleKey.D1) mode = 1;
-                else if (key1 == ConsoleKey.D2) mode = 2;
-                else if (key1 == ConsoleKey.D3) mode = 3;
-                else if (key1 == ConsoleKey.D4) mode = 4;
-                else if (key1 == ConsoleKey.D5) mode = 5;
-                else if (key1 == ConsoleKey.M)
-                {
-                    var--;
-                    goto start;
-                }
-                else if (key1 == ConsoleKey.Escape) Environment.Exit(0);
-                else goto modemenu;
-            }
 
             if (mode == 1)
             {
@@ -149,6 +123,7 @@ namespace FinCalculator
 
                 restart:
 
+                Console.ResetColor();
                 Console.Clear();
 
                 // Вывод текста интерфейса
