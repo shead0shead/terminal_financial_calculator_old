@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj": {}
+    "D:\\Git\\Personal\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj": {
+    "D:\\Git\\Personal\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj",
+        "projectUniqueName": "D:\\Git\\Personal\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj",
         "projectName": "Financial_Calculator",
-        "projectPath": "D:\\Git\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj",
+        "projectPath": "D:\\Git\\Personal\\Financial_Calculator\\Financial_Calculator\\Financial_Calculator.csproj",
         "packagesPath": "C:\\Users\\egkon\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Financial_Calculator\\Financial_Calculator\\obj\\",
+        "outputPath": "D:\\Git\\Personal\\Financial_Calculator\\Financial_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
